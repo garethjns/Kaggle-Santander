@@ -6,10 +6,10 @@ Objective: Work out which customers are unhappy
 Position: 1817/5123 (top 36%)
 
 ## Methods
- - Boosted trees (R - main6.R)
+ - Boosted trees (R - main5.R & main6.R)
 	* Feature engineering:
 		* Error code counts
-		* Identification of various vars based on forum exploration 
+		* Identification and manipulation of various vars based on forum exploration 
 	* Preprocessing
 		* Removal of numeric error codes
 		* Removal or zero variance features (caret)
